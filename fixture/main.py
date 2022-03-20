@@ -3,3 +3,6 @@ class MainClass:
 
     def get_local_number(self):
         return 14
+
+    def get_lass_number(self):
+        return MainClass.class_number
